@@ -8,7 +8,6 @@ urls = [
     'https://ip.haogege.xyz/',
     'https://cf.090227.xyz',
     'https://ct.090227.xyz',
-    'https://cmcc.090227.xyz',     
     'https://api.uouin.com/cloudflare.html',
 ]
 
