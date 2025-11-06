@@ -10,8 +10,6 @@ urls = [
     'https://ct.090227.xyz',
     'https://cmcc.090227.xyz',     
     'https://api.uouin.com/cloudflare.html',
-    'https://www.wetest.vip/page/cloudfront/address_v4.html',
-    'https://www.wetest.vip/page/cloudflare/address_v4.html'
 ]
 
 # 正则表达式用于匹配IP地址
