@@ -1,3 +1,16 @@
+104.26.0.244	https://www.wetest.vip/page/cloudflare/address_v4.html
+104.17.151.98	https://www.wetest.vip/page/cloudflare/address_v4.html
+104.16.199.168	https://www.wetest.vip/page/cloudflare/address_v4.html
+104.17.234.7	https://www.wetest.vip/page/cloudflare/address_v4.html
+104.17.181.19	https://www.wetest.vip/page/cloudflare/address_v4.html
+104.16.192.197	https://www.wetest.vip/page/cloudflare/address_v4.html
+104.16.234.86	https://www.wetest.vip/page/cloudflare/address_v4.html
+104.21.227.198	https://www.wetest.vip/page/cloudflare/address_v4.html
+104.21.231.33	https://www.wetest.vip/page/cloudflare/address_v4.html
+162.159.38.182	https://www.wetest.vip/page/cloudflare/address_v4.html
+104.18.42.81	https://www.wetest.vip/page/cloudflare/address_v4.html
+104.18.37.31	https://www.wetest.vip/page/cloudflare/address_v4.html
+162.159.38.195	https://www.wetest.vip/page/cloudflare/address_v4.html
 172.64.82.114	https://api.uouin.com/cloudflare.html
 198.41.194.162	https://api.uouin.com/cloudflare.html
 198.41.208.15	https://api.uouin.com/cloudflare.html
